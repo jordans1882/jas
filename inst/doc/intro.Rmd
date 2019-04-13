@@ -1,0 +1,21 @@
+---
+title: "JAS: A package to make my life easier"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{JAS: JAS: A package to make my life easier}
+  %\VignettePackage{JAS}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+
+```{r, echo = FALSE, message = FALSE}
+# Not sure why I have this here... Also, figure out how to get to code in the package vignette
+knitr::opts_chunk$set(comment = "")
+library(JAS)
+```
+
+This package contains some R markdown templates and some functions that
+generally make my life easier.
+

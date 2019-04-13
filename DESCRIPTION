@@ -1,0 +1,12 @@
+Package: JAS
+Type: Package
+Title: A package with some things I find usefull
+Version: 0.0.1
+Date: 2019-04-13
+Authors: Jordan Schupbach
+Maintainer: Jordan Schupbach <jordans1882@gmail.com>
+Description: A package to make my life easier
+License: WTFPL
+Suggests: knitr, testthat
+Depends: doParallel, foreach, doMC, png, RColorBrewer
+VignetteBuilder: knitr
