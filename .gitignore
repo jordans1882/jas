@@ -1,3 +1,6 @@
+*.o
+
+tags
 # History files
 .Rhistory
 .Rapp.history
